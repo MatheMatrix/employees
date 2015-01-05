@@ -18,7 +18,7 @@ Next, install requirment in the environment.
 
 ::
 
-  (.venv)$ pip install -r requirments.txt
+  (.venv)$ pip install -r requirements.txt
 
 Now, install the employee into the virtual environment.
 
