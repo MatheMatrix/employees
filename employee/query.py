@@ -2,7 +2,6 @@ import logging
 
 from cliff.command import Command
 from employee import main
-from employee import summary
 
 
 employees = main.employees
